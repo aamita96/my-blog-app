@@ -1,0 +1,5 @@
+<ul>
+  <li *ngFor="let category of categories">
+    <a routerLink="/blogs-by-category" [state]="category">{{category.name}}</a>
+  </li>
+</ul>

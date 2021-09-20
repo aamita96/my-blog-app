@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "name":"App Development"
+  },
+  {
+    "id":2,
+    "name":"Blockchain Development"
+  },
+  {
+    "id":3,
+    "name":"Cryptocurrency"
+  },
+  {
+    "id":4,
+    "name":"Digital Marketing"
+  },
+  {
+    "id":5,
+    "name":"Game Development"
+  },
+  {
+    "id":6,
+    "name":"Open Source"
+  },
+  {
+    "id":7,
+    "name":"Softwares"
+  },
+  {
+    "id":8,
+    "name":"Technology"
+  },
+  {
+    "id":9,
+    "name":"Web Development"
+  }
+]

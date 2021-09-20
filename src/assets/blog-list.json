@@ -1,0 +1,44 @@
+[
+  {
+    "title":"How to contribute to Open Source?",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"open-source, software, contribution",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"Open Source"
+  },
+  {
+    "title":"Angular Vs React Vs Vue.js",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"angular, angular.js , react, react.js , vue, vue.js",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"Web Development"
+  },
+  {
+    "title":"Objective C or Swift, What to choose for iOS development",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"iPhone, iOS, software, mobile development",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"App Development"
+  },
+  {
+    "title":"Game engines that you need to know for games development.",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"game, game engine,software",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"Game Development"
+  },
+  {
+    "title":"Top Trending app that you need to check.",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"latest softwares, trending, apps",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"Softwares"
+  },
+  {
+    "title":"Use GCP Hyperledger Fabric and Composer for blockchain development.",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "keywords":"blockchain, crypto, softwares,google cloud",
+    "meta_desc":"lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt ducimus aliquam nulla nobis quo mollitia rem nisi dolore alias natus dignissimos dolores eum aliquid officiis error dolorem, minima repellat cumque!",
+    "category":"Blockchain Development"
+  }
+]
